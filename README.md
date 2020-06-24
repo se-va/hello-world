@@ -1,5 +1,5 @@
 # hello-world
-It is first repository
+It is first repository # comment
 my main interest is Python-programming
 01 master
 02 master
@@ -7,10 +7,9 @@ my main interest is Python-programming
 ----------------
 04 redme 0003
 05 redme 0003
-06 redme 0003
 ---------------
 =======
-04 redme 0004-///
-05 redme 0004-///
 06 redme 0004-///
+07 redme 0004-///
 -----------------
+08 tree /// ok
